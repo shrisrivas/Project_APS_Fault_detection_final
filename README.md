@@ -99,3 +99,4 @@ ECR_REPOSITORY_NAME=
 BUCKET_NAME=
 MONGO_DB_URL=
 ```
+http://ec2-13-233-161-181.ap-south-1.compute.amazonaws.com:8080
